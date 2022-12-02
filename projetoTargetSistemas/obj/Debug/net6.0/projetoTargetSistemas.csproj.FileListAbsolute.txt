@@ -1,0 +1,17 @@
+C:\www\projeto-targetSistemas\projetoTargetSistemas\bin\Debug\net6.0\projetoTargetSistemas.exe
+C:\www\projeto-targetSistemas\projetoTargetSistemas\bin\Debug\net6.0\projetoTargetSistemas.deps.json
+C:\www\projeto-targetSistemas\projetoTargetSistemas\bin\Debug\net6.0\projetoTargetSistemas.runtimeconfig.json
+C:\www\projeto-targetSistemas\projetoTargetSistemas\bin\Debug\net6.0\projetoTargetSistemas.dll
+C:\www\projeto-targetSistemas\projetoTargetSistemas\bin\Debug\net6.0\projetoTargetSistemas.pdb
+C:\www\projeto-targetSistemas\projetoTargetSistemas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.csproj.AssemblyReference.cache
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.AssemblyInfoInputs.cache
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.AssemblyInfo.cs
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.csproj.CoreCompileInputs.cache
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.csproj.CopyComplete
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.dll
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\refint\projetoTargetSistemas.dll
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.pdb
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\projetoTargetSistemas.genruntimeconfig.cache
+C:\www\projeto-targetSistemas\projetoTargetSistemas\obj\Debug\net6.0\ref\projetoTargetSistemas.dll
